@@ -1,0 +1,7 @@
+user:pass
+nirvana:pass123
+dummy:hell0123
+
+user:pass
+nirvana:pass123
+dummy:hell0123
